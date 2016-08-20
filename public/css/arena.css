@@ -1,0 +1,122 @@
+/*
+body {
+  background-image: url(paperfinal.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-image: url(http://orig15.deviantart.net/fc2d/f/2014/208/3/1/above_clouds_by_merl1ncz-d7pg9bv.jpg);
+  border-image-outset: 30 15 17 17;
+  border-image-slice: 8% 10% 12% 12%;
+  border-image-width: 18% 10% 10% 10%;
+  background-color: transparent;
+}
+
+
+
+
+
+.hand {
+  position: relative;
+  display: inline-block;
+  width: 15%;
+  height: 100%;
+  margin-right: -12%;
+}
+
+
+.table {
+  position: relative;
+  width: 70%;
+  height: 80%;
+  margin-left: 15%;
+  border: transparent 2px solid;
+}
+
+.table > * {
+  border: transparent 2px solid;
+
+}
+
+td {
+  display: relative;
+  height: 20% ;
+  border: transparent 2px solid;
+  padding: 0;
+  overflow: hidden;
+  outline: none;
+  background: transparent;
+
+}
+
+tr {
+  border: transparent 2px solid;
+  background: transparent;
+}
+
+
+body, html {
+  height: 100%;
+}*/
+
+
+/*img {
+  height: 100%;
+  position: relative;
+  border-radius: 5%;
+  margin-top: 5px;
+  margin-left: 0px;
+}
+
+.tableTopImage {
+  position: absolute;;
+  margin: 0%;
+  border-radius: 5%;
+  height: 22%;
+}
+
+.col-md-2 {
+  width:  15%;
+  padding: 0;
+}
+
+.no-gutter > [class*='col-'] {
+    padding-right:0;
+    padding-left:0;
+}
+
+
+#panelHeight {
+  position: relative;
+  border:none;
+  height: 10%;
+  opacity: 0;
+}
+
+.navbar {
+  transition: bottom 0.5s;
+  height: 50%;
+  bottom: 0%;
+  padding: 0px;
+  background-color: white;
+  background-image: none;
+}
+
+
+
+.navbar:hover {
+  bottom: 0%;
+}
+
+#handNavBar {
+  width: 50%;
+  left: 50%;
+}*/
+
+--------------------------------------------------------------------------------
+
+#mainContainer {
+  height: 100%;
+  width: 100%;
+  background-image: url(paperfinalclouds.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
